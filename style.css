@@ -171,3 +171,11 @@ svg {
 .fs-600 {
 	font-size: var(--fs-600);
 }
+
+.attribution {
+   font-size: 11px;
+   text-align: center;
+}
+.attribution a {
+   color: hsl(228, 45%, 44%);
+}
